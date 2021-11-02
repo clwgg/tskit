@@ -7,7 +7,7 @@ jsonschema==3.2.0
 msprime==1.0.0
 numpy==1.21.3
 PyGithub==1.55
-sphinx==4.0.1
+sphinx==4.2.0
 sphinx-argparse==0.3.1
 sphinx-issues==1.2.0
 sphinx_rtd_theme==1.0.0
